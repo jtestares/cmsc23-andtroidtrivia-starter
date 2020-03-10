@@ -17,7 +17,10 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     ext {
+<<<<<<< HEAD
         navigationVersion = '2.3.0-alpha03'
+=======
+>>>>>>> f74b59eb56329f36137e05d214847b971f113a6c
         kotlin_version = '1.3.11'
         archLifecycleVersion = '1.1.1'
         gradleVersion = '3.3.1'
